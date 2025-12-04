@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Baby L",
+  "base_artist": "ZZEN",
+  "createdAt": "2025-12-04T12:54:20.222278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby L",
+      "artist": "ZZEN",
+      "has_synced": false,
+      "path": "select/01_Baby_L_ZZEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Doing It All For My Baby - l",
+      "artist": "Huey Lewis & The News",
+      "has_synced": false,
+      "path": "select/02_Doing_It_All_For_My_Baby_-_l_Huey_Lewis_&_The_News.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby L",
+      "artist": "ZZEN",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_L_ZZEN.txt"
+    }
+  ]
+}
